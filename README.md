@@ -1,4 +1,3 @@
 ## Hi there 👋
-- 🔭 I’m currently working on the development of Processing and Analytical Tools for Foreign Information Manipulation and Interference
-- 🌱 I’m currently learning Machine Learning, Optimization Methods & Cybersecurity
+- 🔭 I’m currently working on enhancing Large Language Models with external knowledge bases using Multimodal RAG and similarity search techniques.
 - 📫 How to reach me: amakridou@ics.forth.gr
