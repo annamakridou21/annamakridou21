@@ -1,3 +1,4 @@
 ## Hi there 👋
-- 🔭 I’m currently working on enhancing Large Language Models with external knowledge bases using Multimodal RAG and similarity search techniques.
+- 🔭 I’m currently working designing a local multi-agent SLM system for Earth Observation, utilizing LangGraph, MCP, RAG and live APIs to ensure secure data access and reliable agent execution for my MSc thesis.
+
 - 📫 How to reach me: amakridou@ics.forth.gr
